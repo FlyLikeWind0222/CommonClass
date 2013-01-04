@@ -12,13 +12,13 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class PdfShow
  */
-public class PdfShow extends HttpServlet {
+public class PDFShow extends HttpServlet {
   private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public PdfShow() {
+    public PDFShow() {
         super();
         // TODO Auto-generated constructor stub
     }
